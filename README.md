@@ -1,2 +1,2 @@
-# andy
-teaching and git
+# Andy
+Teaching Andy some git stuffs.
